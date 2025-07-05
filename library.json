@@ -1,20 +1,33 @@
 {
-  "name": "JPEGENC",
-  "version": "1.1.0",
+  "name": "jpegenc-pio",
+  "version": "1.0.0",
   "description": "Designed to provide a fast and fully functional JPEG encoder that can use minimal memory by encoding images an MCU at a time. Supports grayscale and color output with optional subsampling and 4 quality levels.",
+  "keywords":
+  [
+    "jpeg",
+    "image",
+    "esphome",
+    "esp32",
+    "encoder"
+  ],
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/bitbank2/JPEGENC"
+    "url": "https://github.com/DT-art1/jpegenc-platformio"
   },
   "authors":
   [
     {
-      "name": "Larry Bank"
+      "name": "DT-art1",
+      "maintainer": true
+    },
+    {
+      "name": "Original author: Larry Bank",
+      "maintainer": false
     }
   ],
-  "license": "Apache License 2.0",
-  "homepage": "https://github.com/bitbank2/JPEGENC",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/DT-art1/jpegenc-platformio",
   "frameworks": "*",
   "platforms": "*"
 }

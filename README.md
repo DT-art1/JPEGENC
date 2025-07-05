@@ -1,3 +1,7 @@
+# jpegenc-pio
+**Notice:** This is a fork of [bitbank2/JPEGENC](https://github.com/bitbank2/JPEGENC) with modifications to support additional color formats.
+All credit for the original JPEG encoder goes to [Larry Bank](https://github.com/bitbank2).
+
 JPEGENC
 -------
 Copyright (c) 2021 BitBank Software, Inc.<br>
